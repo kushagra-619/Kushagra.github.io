@@ -55,3 +55,82 @@ TMDB Dataset for movie metadata.*
 Data Preprocessing to ensure clean and accurate data.*
 - Outcome:
 The engine provides flexible, user-friendly movie recommendations with multiple input methods, offering a smooth and enjoyable movie discovery experience.
+
+3. **Software Fault Detection Using Machine Learning** [Link](https://github.com/kushagra-619/Software_Fault_Detection_using_Machine_Learning)
+- This capstone project focused on Software Fault Detection through the application of machine learning techniques, specifically comparing the performance of ensemble models against baseline models. The goal was to improve the accuracy of fault detection in software applications, enhancing overall software reliability.
+- Project Goals:
+Fault Detection: Utilize machine learning algorithms to identify and predict software faults based on historical data.
+Model Comparison: Evaluate the performance of various ensemble models (such as Random Forest, AdaBoost, and Gradient Boosting) against traditional baseline models (like logistic regression and decision trees).
+- Tech Stack:
+Programming Languages: Python for developing and implementing machine learning algorithms.
+Machine Learning Libraries: Scikit-learn for model building and evaluation, along with Pandas and NumPy for data manipulation.
+Visualization Tools: Matplotlib and Seaborn for visualizing model performance and results.
+- Techniques Used:
+Data Preprocessing: Cleaned and prepared the dataset to ensure high-quality input for model training.
+Feature Engineering: Selected and created features that improved model accuracy.
+Model Training and Evaluation: Employed cross-validation techniques to assess model performance and prevent overfitting.
+- Outcome:
+The project demonstrated that ensemble models significantly outperformed baseline models in detecting software faults, achieving higher accuracy and lower false positive rates. The findings provided insights into the effectiveness of different machine learning approaches for software reliability, contributing valuable knowledge to the field of software engineering.
+
+4. **Comprehensive Formula-1 Race Analysis: Team Performance & Financial Insights (1950-2023)** [Link](https://github.com/kushagra-619/Comprehensive_Formula-1_Race_Analysis-Team_Performance_and_Financial_Insights_-1950-2023-)
+- The objective of this project was to analyze Formula 1 race data spanning from 1950 to 2023, focusing on team performance and financial insights. The analysis aimed to uncover significant financial disparities among teams and illustrate their evolution over time, providing actionable insights through comprehensive data visualization.
+
+- Data Collection: Gathered datasets from various sources, including race results, team financials, and driver statistics.
+Data Cleaning and Preparation: Merged multiple CSV files containing race and financial data. Removed duplicates, handled missing values, and standardized formats.
+Normalized numerical data to ensure consistency across datasets.
+
+- Exploratory Data Analysis (EDA):
+ Created interactive dashboards in Tableau to visualize race results, team performance, and financial trends.
+ Employed bar charts, line graphs, and scatter plots to illustrate key metrics.
+ Conducted correlation analysis to identify relationships between performance and financial investments.
+
+- Advanced Analysis:
+ Implemented trend analysis and forecasting tools to predict future performance.
+ Developed heat maps to visualize performance variability across circuits and seasons.
+ Used clustering techniques to group teams and drivers based on performance metrics.
+
+- Key Findings:
+ Identified top-performing teams and drivers across different eras.
+ Revealed significant financial gaps, highlighting the impact of budgets on performance.
+ Illustrated the evolution of teams and tracked changes in performance due to rule changes and technological advancements.
+
+- Outcome:
+ The project delivered detailed insights into the dynamics of Formula 1 racing, focusing on how financial resources affect team performance. It provided stakeholders with intuitive visualizations that facilitate informed decision-making and helped teams optimize performance and financial strategies.
+
+5. **Project: E-commerce Database Management System** [Link](https://github.com/kushagra-619/E-commerce_Database_Management_System)
+
+- This project involved the development of a comprehensive Database Management System (DBMS) tailored for an e-commerce platform. The system was designed to efficiently manage various aspects of online retail operations, including inventory management, order processing, customer information, product cataloging, and shipping logistics.
+
+- Business Requirements:
+ Design a relational database structure to support e-commerce operations.
+ Implement tables for products, inventory, orders, customers, sellers, and shipping.
+ Establish relationships between different entities in the database.
+ Develop stored procedures for efficient data insertion and management.
+ Ensure data integrity through proper constraints and foreign key relationships.
+
+- Steps Taken:
+ Database Design: Created tables for entities such as order_detail, inventory, product, category, condition, seller, orders, consumer, address, shipping_type, package, and shipment.
+
+ Table Creation: Executed SQL commands to set up the necessary tables with appropriate columns and data types.
+
+ Stored Procedures Development: Implemented stored procedures for adding data to various tables, including procedures like ADD_CONSUMER, ADD_INVENTORY, ADD_ORDERS, and others.
+
+ Data Insertion: Used the created stored procedures to insert sample data into the tables for testing and validation.
+
+ Relationship Establishment: Added foreign key constraints to ensure relationships between tables, maintaining data integrity and consistency.
+
+ Query Implementation: Developed SQL queries to extract meaningful insights, such as inventory status, consumer statistics, and order details.
+
+ Table Alterations: Modified existing tables to add necessary constraints and relationships.
+
+ Testing and Validation: Executed stored procedures and queries to ensure proper functionality and accurate data retrieval.
+
+- Outcome:
+ The project successfully established a robust database management system capable of supporting essential e-commerce operations, ensuring data integrity, and providing valuable business insights through efficient querying.
+
+## Interests 
+
+1. **I have a diverse range of interests that fuel my creativity and drive. As an avid sports enthusiast, I enjoy playing cricket, soccer, and tennis, which not only keep me active but also teach valuable lessons in teamwork and strategy. I am passionate about cinema and series, always eager to explore new narratives and cinematic styles.**
+2. **My love for history and geopolitics keeps me informed about global events, enhancing my analytical skills and understanding of complex issues. Additionally, I am captivated by the thrill of Formula 1 racing, where precision and innovation collide.**
+3. **Traveling allows me to experience different cultures and cuisines, while cooking various dishes at home allows me to express my creativity in the kitchen. Together, these interests shape my perspective, inspiring me to approach challenges with a well-rounded and informed mindset.**
+
