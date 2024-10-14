@@ -2,4 +2,4 @@ title: Kushagra Vashistha
 #logo:  
 description: Data Professional
 show_downloads: False 
-theme: jekyll-theme-minimal
+remote_theme: pages-themes/minimal@v0.2.0
