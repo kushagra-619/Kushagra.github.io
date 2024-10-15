@@ -1,5 +1,5 @@
 # Data Professional
-I’m a data professional with expertise in data engineering, cloud technologies, and machine learning. I hold a Master’s in Data Analytics and certifications in Oracle OCI Generative AI and Advanced SQL. My work spans industries like finance, education, and healthcare, focusing on building ETL pipelines, automating workflows, and delivering interactive dashboards.
+I’m a data professional with expertise in data engineering, cloud technologies, machine learning and data analysis. I hold a Master’s in Data Analytics, an Oracle certified "OCI Generative AI Professional" and certification in Advanced SQL. My work spans industries like finance, education, and healthcare, focusing on building ETL pipelines, automating workflows, and delivering interactive dashboards.
 
 ## Education
 - Master's of Science in Data Analytics (Clark University, Worcester, USA) (2022-2024) 
@@ -10,7 +10,7 @@ I’m a data professional with expertise in data engineering, cloud technologies
 **Data Analyst @ ITMC Solutions Inc. | New Jersey, USA** 
 (Sep 2024-Current)
 
-As a Data Analyst with over 2 years of experience, I have played a key role in transforming raw data into valuable business insights. My work focuses on data analysis, reporting, and process optimization, primarily using SQL, Python, and Tableau.
+As a Data Analyst with over **2+ years of experience**, I have played a key role in transforming raw data into valuable business insights. My work focuses on data analysis, reporting, and process optimization, primarily using SQL, Python, and Tableau.
 - Data Analysis & Reporting: Leveraged SQL (MySQL, Oracle DB) to write complex queries for extracting, transforming, and loading data from various databases. Developed interactive Tableau dashboards to provide real-time insights and visualizations that enhanced decision-making for stakeholders across departments.
 - Data Quality & Validation: Ensured data integrity by performing thorough validation checks and cleaning datasets. I worked extensively with large datasets, applying techniques like data normalization and deduplication to ensure high-quality outputs.
 - Cross-functional Collaboration: Worked closely with business units to gather and document requirements, translating them into actionable insights. This resulted in process improvements, data-driven strategies, and optimized performance tracking.
@@ -28,7 +28,7 @@ As a Data Engineer, I focused on building, maintaining, and optimizing data pipe
 
 ## Data Projects
 
-***Mental Health & Music Analysis Project***
+***Mental Health & Music Analysis Project*** [Link](https://github.com/kushagra-619/Music-Mental_Health)
 
  - This project aimed to examine the relationship between music and mental health across different demographics, with the goal of identifying how music influences emotional well-being. By analyzing data, I sought to uncover trends and correlations that could inform research or therapeutic approaches to mental health.
  - Tech Used: Python (Pandas, NumPy) for data analysis, AWS Glue for efficient data cleaning and transformation, Python for visualizations that made the insights easy to interpret.
@@ -37,7 +37,7 @@ As a Data Engineer, I focused on building, maintaining, and optimizing data pipe
  - Desired Outcome: The goal was to reveal *How different types of music influence mental health across various demographic groups*, providing insights that could be used in future mental health research or in developing therapeutic tools. The project aimed to showcase the potential for personalized music therapy and contribute to a deeper understanding of music’s 
    role in mental wellness.
 
-***Movie Recommendation Engine Application***
+***Movie Recommendation Engine Application*** [Link](https://github.com/kushagra-619/Movie-Recommendation_Engine) 
  - I built and deployed a movie recommendation engine on localhost using **Flask**, allowing users to get **personalized movie suggestions based on their preferences**. The system leverages the *TMDB dataset of 9000 movies* and offers multiple recommendation methods to enhance the user experience.
  - Key Features:
    Users can select a movies and receive 10 personalized recommendations.
@@ -134,7 +134,7 @@ As a Data Engineer, I focused on building, maintaining, and optimizing data pipe
 - Future work could involve expanding the dataset for more nuanced insights, implementing explainable AI techniques, and developing dynamic pricing strategies based on real-time customer behavior.
 
 
-**Data Visualization Using SPLUNK: Population, Mortality, and Nutrition Analysis**
+**Data Visualization Using SPLUNK: Population, Mortality, and Nutrition Analysis** [Link](https://github.com/kushagra-619/HealthAnalysis-SPLUNK)
 
 - This project uses data visualization techniques to explore various aspects of global population dynamics, mortality rates, and nutrition issues. The analysis covers several key areas:
 
@@ -150,7 +150,7 @@ As a Data Engineer, I focused on building, maintaining, and optimizing data pipe
 
 - This visualization project demonstrates skills in data analysis, chart creation, and the ability to present complex information in an accessible format.
 
-**'Governance, Risk and Compliance(GRC)' Case Study**
+**'Governance, Risk and Compliance(GRC)' Case Study** [Link](https://github.com/kushagra-619/Data-Governance-CaseStudy)
 
 - Focus of the Study: This case study explored the significance of Governance, Risk, and Compliance (GRC) in the corporate world, examining two specific companies that failed to implement proper GRC processes.
 - Key Findings: Importance of GRC
@@ -158,19 +158,27 @@ As a Data Engineer, I focused on building, maintaining, and optimizing data pipe
   Proper GRC implementation leads to enhanced decision-making, reduced risk exposure, and improved regulatory compliance.
   A robust GRC framework fosters transparency, accountability, and stakeholder trust.
 
-- Case Study 1: Lloyds and HBOS Merger.
+- Case Study 1: Lloyds and HBOS Merger & Uber's Governance and Regulatory Challenges.
 Lack of due diligence led to unforeseen financial losses.
 Unchecked bad practices at HBOS, including reckless lending, violated good governance.
 A hidden loan scam caused significant damage to small businesses.
 Consequences included massive financial losses, fines, lawsuits, and reputational damage.
 
-- Case Study 2: Uber's Governance and Regulatory Challenges.
 Founder's aggressive leadership style led to clashes with regulators globally.
 Cultural issues, including allegations of sexual harassment, damaged the company's reputation.
 Uber's business model faced regulatory challenges in multiple countries.
 The company experienced poor stock performance and valuation criticism.
+ - Case Study 2: Cybersecurity - Identity and Access Management (IAM) at Walmart
+Abstract:
+This case study focuses on Walmart’s Identity and Access Management (IAM) strategy, emphasizing the importance of securing user identities in a rapidly evolving digital landscape. It discusses Walmart's goals, challenges, and solutions in fortifying their cybersecurity infrastructure.
+Key Sections: Walmart's Cybersecurity Goals:
+- Holistic Access Control
+- Adaptive Authentication
+- Regulatory Compliance
+- Innovation in IAM
+- User-Centric Design
 
-- Recommendations
+## Recommendations
 Leadership Change: Appoint leaders committed to ethical practices and regulatory compliance.
 Cultural Transformation: Foster a culture of transparency, accountability, and respect.
 Regulatory Compliance Training: Provide comprehensive training on regulatory requirements.
@@ -182,5 +190,5 @@ Transparent Communication: Clearly communicate remediation efforts to all stakeh
 Financial Stabilization: Develop sustainable financial strategies to regain investor confidence.
 Continuous Monitoring and Adaptation: Implement robust systems to track compliance metrics and address emerging issues.
 
-- Key Takeaway
+## Key Takeaway
 The case study underscores the critical importance of a comprehensive GRC framework in safeguarding an organization's reputation, financial stability, and long-term success. It highlights the need for proactive risk management, ethical business practices, and continuous adaptation to regulatory changes.
