@@ -19,8 +19,8 @@ As a Data Analyst with over **2+ years of experience**, I have played a key role
 **Data Engineer @ Ample Softech Systems | Pune, India**
 (Jan 2020-Mar 2022)
 
-As a Data Engineer, I focused on building, maintaining, and optimizing data pipelines and infrastructure to enable seamless data flow across the organization. My work involved handling large-scale datasets, improving data architecture, and supporting data-driven decision-making.
-- ETL Pipeline Development: Designed and implemented scalable ETL pipelines using Python, MySQL, and Flask to extract, transform, and load data from multiple sources into centralized databases. This improved data accessibility for the analytics team and reduced data processing time by 22%.
+As a Data Engineer, I focused on **building, maintaining, and optimizing data pipelines and infrastructure** to enable seamless data flow across the organization. My work involved handling large-scale datasets, improving data architecture, and supporting data-driven decision-making.
+- ETL Pipeline Development: Designed and implemented scalable ETL pipelines using Python, MySQL, and Flask to extract, transform, and load data from multiple sources into centralized databases. This improved data accessibility for the analytics team and **reduced data processing time by 22%**.
 - Data Integration & Automation: Automated key data workflows with tools like Docker and Kubernetes, ensuring efficient and reliable data movement across various platforms. I utilized AWS services like S3 for storage and Lambda for event-driven processing, enhancing the scalability and speed of data operations.
 - Database Management: Optimized the performance of MySQL databases by restructuring tables, indexing, and tuning queries to ensure efficient storage and retrieval of data. This reduced query response time significantly and improved system performance.
 - Data Governance & Validation: Ensured data quality and compliance through rigorous validation processes and monitoring tools. Developed custom scripts in Python to clean and transform data, ensuring accuracy and consistency across all datasets.
@@ -178,7 +178,7 @@ Key Sections: Walmart's Cybersecurity Goals:
 - Innovation in IAM
 - User-Centric Design
 
-## Recommendations
+- Recommendations
 Leadership Change: Appoint leaders committed to ethical practices and regulatory compliance.
 Cultural Transformation: Foster a culture of transparency, accountability, and respect.
 Regulatory Compliance Training: Provide comprehensive training on regulatory requirements.
@@ -189,6 +189,5 @@ Ethical Business Practices: Reinforce zero-tolerance policies for unethical beha
 Transparent Communication: Clearly communicate remediation efforts to all stakeholders.
 Financial Stabilization: Develop sustainable financial strategies to regain investor confidence.
 Continuous Monitoring and Adaptation: Implement robust systems to track compliance metrics and address emerging issues.
-
-## Key Takeaway
+- Key Takeaway
 The case study underscores the critical importance of a comprehensive GRC framework in safeguarding an organization's reputation, financial stability, and long-term success. It highlights the need for proactive risk management, ethical business practices, and continuous adaptation to regulatory changes.
